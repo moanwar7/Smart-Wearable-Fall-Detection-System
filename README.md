@@ -99,8 +99,6 @@ WHILE running:
 
 ```text
 ## Project Structure
-
-```text
 Smart-Fall-Detection/
 ├── README.md
 ├── Project Work Log & Reference Sources.docx
