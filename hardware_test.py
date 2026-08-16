@@ -1,3 +1,24 @@
+# =========================================================
+# Smart Wearable Fall Detection System
+#
+# Author      : Mohamed Anwar
+# Date        : 16 August 2026
+# Version     : Hardware Test v1.0
+#
+# Description:
+# This program performs an initial hardware test for the
+# Smart Wearable Fall Detection System using Raspberry Pi Pico.
+#
+# It tests the LEDs, buzzer, push button, I2C communication,
+# LCD, and MPU6050 accelerometer. It also displays the system
+# status on the LCD and prints the button state and
+# accelerometer readings to the serial monitor.
+#
+# Platform    : Raspberry Pi Pico
+# Language    : MicroPython
+# Simulator   : Wokwi
+# =========================================================
+
 from machine import Pin, I2C, PWM
 import time
 
