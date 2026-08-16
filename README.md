@@ -3,6 +3,11 @@
 A wearable fall detection system based on a **Raspberry Pi Pico** and **MPU6050 accelerometer**. It detects falls by checking three conditions **in sequence** — sudden impact, followed by low movement, within a set time window — to reduce false alarms.
 
 ---
+Wokwi Simulation
+
+You can run and test the complete system online:
+
+▶ https://wokwi.com/projects/472513618381888513
 
 ## How It Works
 
@@ -93,8 +98,16 @@ WHILE running:
 ## Project Structure
 
 ```text
+## Project Structure
+
+```text
 Smart-Fall-Detection/
 ├── README.md
+├── Project Work Log & Reference Sources.docx
+├── Smart Wearable Fall Detection System photo.png
+├── Smart Wearable Fall Detection System video.mp4
+├── System flowchart.png
+├── hardware_test.py
 └── main.py
 ```
 
