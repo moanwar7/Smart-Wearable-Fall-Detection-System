@@ -100,7 +100,7 @@ Smart-Fall-Detection/
 
 ## Getting Started
 
-1. `git clone https://github.com/<your-username>/Smart-Fall-Detection.git`
+1. `git clone https://github.com/moanwar7/Smart-Wearable-Fall-Detection-System.git`
 2. Wire components per the pin table above.
 3. Run on Wokwi `main.py` to the Pico.
 4. Watch the serial monitor for state transitions and test the fall sequence.
